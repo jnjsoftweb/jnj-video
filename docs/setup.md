@@ -27,7 +27,6 @@ npm run dev
 npm install shadcn
 ```
 
+```sh
+npx shadcn@latest add accordion alert alert-dialog aspect-ratio avatar badge breadcrumb button calendar card carousel checkbox collapsible command context-menu dialog drawer dropdown-menu form hover-card input input-otp label menubar
 ```
-npx shadcn@latest add button
-```
-
